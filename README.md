@@ -1,6 +1,6 @@
 # Файловый сервис artasky.net
 
-## `https://files.artasky.net`
+## https://files.artasky.net
 
 ## Сервис позволяет загружать любые файлы размером до 500мб
 
